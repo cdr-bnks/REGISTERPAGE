@@ -1,0 +1,15 @@
+body{
+    width: 75%;
+    background-color:aqua;
+}
+.border-width p{
+    border-style: white;
+    border-width: 50px;
+} 
+
+}
+.absolute {
+    text-align: left;
+    background-color: aqua;
+    width: 75%;
+}
